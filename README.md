@@ -54,3 +54,22 @@ This section explores the success of movie franchises by analyzing revenue, budg
 ### Director and Actor Analysis
 
 This section analyzes the most active directors and actors based on the number of movies, total revenue, average rating, and popularity.
+
+![image](https://github.com/HalimMansour/Data-Analysis-With-Movies/assets/122712424/8200b3db-e730-4ea2-80eb-bd88467088be)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+![image](https://github.com/HalimMansour/Data-Analysis-With-Movies/assets/122712424/7d403ce0-da74-453f-b56c-e0e082cdc44f)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+![image](https://github.com/HalimMansour/Data-Analysis-With-Movies/assets/122712424/4b94d031-1a26-4e51-a3b2-285f3bf8ede6)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+![image](https://github.com/HalimMansour/Data-Analysis-With-Movies/assets/122712424/5c0e1863-227a-4c00-b916-7290850dd7d6)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+![image](https://github.com/HalimMansour/Data-Analysis-With-Movies/assets/122712424/45f90a46-457e-4b67-aff4-e5644ad95000)
+
